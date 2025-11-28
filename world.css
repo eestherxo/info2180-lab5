@@ -57,12 +57,20 @@ button {
     color: white;
 }
 
-#lookup {
+#lookup-countries {
     background-color: #4db8c4;
 }
 
-#lookup:hover {
+#lookup-countries:hover {
     background-color: #3a9aa5;
+}
+
+#lookup-cities {
+    background-color: #5cb85c;
+}
+
+#lookup-cities:hover {
+    background-color: #4cae4c;
 }
 
 #result {
